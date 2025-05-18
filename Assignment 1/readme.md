@@ -87,7 +87,7 @@ git clone https://github.com/melhadad/nlp-with-llms-2025-hw1.git
 2. Install dependencies:
 ```bash
 cd nlp-with-llms-2025-hw1
-pip install -r requirements.txt  # or use uv sync
+uv sync
 ```
 
 3. Set up API keys for Gemini or Grok:
